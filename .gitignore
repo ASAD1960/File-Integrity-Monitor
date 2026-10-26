@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+file_monitor_data/
+baseline.json
+*.db
+*.sqlite
+.env
