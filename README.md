@@ -4,7 +4,9 @@
 ![Home Window](file_monitor_data/screenshots/Home%20Window.png)
 
 ### Scan for Changes
-![Scan for Changes](https://raw.githubusercontent.com/ASAD1960/file_monitor/main/file_monitor_data/screenshots/New%20sacn%20for%20changes.png)
+
+![Scan for Changes](file_monitor_data/screenshots/sacn%20for%20changes%20.png)
+
 
 ### Scan Results
 ![Scan Results](file_monitor_data/screenshots/Sran%20For%20Changes.png)
